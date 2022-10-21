@@ -1,0 +1,4 @@
+# ignore .obsidian files
+# JJU's md editor of choice.
+.obsidian
+.ipynb_checkpoints

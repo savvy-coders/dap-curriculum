@@ -1,0 +1,124 @@
+Excel Examples and Activities
+
+Open a new spreadsheet (or add a new tab) and save it as ‘Excel_Activities’
+
+Excel Walk Through Example One – Payroll
+--------------------------------------------
+•	Add title of “employee payroll” in A1
+•	Add ‘last name’ in A3
+•	Add ‘first name’ in B3
+•	Add ‘hourly wage’ in c3
+•	Add ‘hours worked’ in d3
+•	Add ‘pay’ in e3
+•	Add today’s date in d1
+•	Add the following names in cells A4 – A14: 
+o	Walker, Bell, Rogers, Hill, Abbott, Young, Hail, Miller, Little, Munson, Taylor
+•	Add the following names in cells b4 – b14: 
+o	Lindsay, Gary, Phillip, Bill, Bryan, Tammy, Aaron, Christina, Matthew, Cary, Milton
+•	Add the following numbers in cells c4-c14: 
+o	10, 15, 3.5, 20.1, 5.75, 12, 6.55, 30, 75, 40, 25
+•	Add the following numbers in cells d4 – d14: 
+o	40, 35, 30, 50, 55, 45, 25, 29, 32, 44, 22
+•	Put ‘MAX’ in A16
+•	Put ‘MIN’ in A17
+•	Put ‘AVG’ in A18
+•	Put ‘TOTAL’ in A19
+
+1.	Adjust the cells to read all text
+2.	Format hourly wage in dollars and decimals
+3.	Add cells to get the pay calculated
+4.	Calculate MAX
+5.	Calculate MIN
+6.	Calculate AVG
+7.	Calculate TOTAL
+8.	Put your name in C1
+9.	INSERT Column to right of Pay (f4) and label it “Overtime Hours”
+10.	Calculate overtime hours
+11.	IF STATEMENT for f4
+•	=if(d4>40,d4-40,0)
+12.	Add ‘Overtime Bonus’ in G3
+13.	Calculate overtime 
+•	= .5*f4*c4
+14.	Add ‘Total’ to H3
+15.	Calculate TOTAL
+
+Additional practice to do 
+---------------------------
+•	Insert 4 columns after Hours Worked
+•	Insert 4 columns after Overtime hours
+•	Enter in hours worked into the new columns
+•	Enter in Overtime hours into the new columns
+•	ABSOLUTE add $ after = (tells any new cells to always reference c4) 
+•	ABSOLUTE for overtime
+•	Color each section a different color
+•	Do the totals for the month
+•	Calculate a whole month’s worth of Pay totals
+•	Put everything in borders
+•	How would you print it out
+
+
+Excel Walk Through Example Two – Loans
+----------------------------------------
+•	Add Principal Amount
+•	Add interest rate
+•	Add “12 months”
+•	Interest Paid = principle * rate
+•	Total loan cost = principle + interest paid
+•	Monthly payment = Total Loan Paid / Months
+•	CTRL D to fill down
+•	CREATE A BAR CHART FOR THE LOANS
+
+
+Activity 1: Student Roster
+-------------------------------
+•	Add a worksheet: Roster
+•	Add column titles: 
+o	Student Name, Age, Grade, homeroom
+•	Add Student names:
+o	Sarah Ashworth
+o	Amanda Johnson
+o	David Cline
+o	Matthew Roberts
+o	Sierra Chadwick
+o	Ronnie Dangerfield
+o	Thomas Cruise
+o	Bradley Swickerwrath
+o	Gracie Smith
+o	John McDonald
+o	Raymond James 
+•	Add Ages:
+o	12, 11, 13, 12, 14, 12, 11, 13, 13, 15, 11
+•	Add Grades:
+o	85, 72, 60, 95, 88, 99, 75, 100, 75, 85, 85
+•	Add Class:
+o	Social Studies
+•	Add title at the top: Semester Grades
+•	Calculate the MIN
+•	Calculate the MAX
+•	Calculate the AVG
+•	Calculate the MODE
+•	Find the MEDIAN
+•	Find the COUNT of the Students
+•	Customize and Format to your choosing
+
+
+Activity 2: Credit Card
+---------------------------
+•	Create another worksheet and rename it Credit Card
+•	Add the title: Credit Card Debt
+•	Add the Columns: 
+o	Credit Card, Balance, Interest Rate, Months, Interest Paid, Total Loan Amount, Monthly Payment
+•	Add Rows: 
+o	Discover, Capital One, Citi Card, Target, Wal-Mart
+•	Add Balances: 
+o	2000, 450, 975, 1500, 780
+•	Add Interest Rate: 
+o	21, 25, 27, 15, 25
+•	Add Months: 3
+•	Calculate the interest Paid
+•	Calculate the Total Loan Amount
+•	Calculate the Monthly payment
+•	Create a chart of your choosing showcasing Credit Card and Monthly Payment
+•	Create a chart of your choosing showcasing Credit Card, balance & monthly payment
+
+
