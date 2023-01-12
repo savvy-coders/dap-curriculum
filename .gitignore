@@ -2,3 +2,4 @@
 # JJU's md editor of choice.
 .obsidian
 .ipynb_checkpoints
+.DS_Store
